@@ -1,0 +1,13 @@
+Author: Tyson Williams
+Last updated: 1/31/13
+
+Contents:
+vsort.c
+dump.c
+generate.c
+
+Usage:
+shell% ./vsort -i inputfile -o outputfile
+
+A sorting program that takes in a generated file and sorts it based on the 4-byte key.
+The output is written to the specified output file.
